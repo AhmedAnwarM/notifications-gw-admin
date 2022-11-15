@@ -1,0 +1,1 @@
+org.springframework.test.context.ContextCustomizerFactory = sa.com.saib.notifications.admin.config.TestContainersSpringContextCustomizerFactory
